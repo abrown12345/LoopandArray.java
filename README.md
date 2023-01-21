@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List; 
-public class loopAndMap {
+public class loopAndArray {
 
 	public static void main(String[] args) {
 		Scanner input= new Scanner(System.in);
